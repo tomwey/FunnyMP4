@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 70
+OpenUDID http://svn.stm.com/svn/common/frameworks/OpenUDID/tags/1.0.0
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CFilteringJSONSerializer.h
+END
+CJSONSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONSerialization.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CFilteringJSONSerializer.m
+END
+CJSONSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONSerialization.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/Externals/TouchJSON/Experimental/CJSONSerializedData.m
+END

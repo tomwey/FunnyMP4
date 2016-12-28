@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1
+END
+IMBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMBanner.h
+END
+IMInterstitialDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMInterstitialDelegate.h
+END
+IMNative.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMNative.h
+END
+InMobi.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/InMobi.h
+END
+IMError.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMError.h
+END
+libInMobi-4.5.1.a
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/libInMobi-4.5.1.a
+END
+IMInterstitial.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMInterstitial.h
+END
+IMConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMConstants.h
+END
+IMIncentivisedDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMIncentivisedDelegate.h
+END
+InMobiAnalytics.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/InMobiAnalytics.h
+END
+IMBannerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMBannerDelegate.h
+END
+IMNativeDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/common/!svn/ver/3168/frameworks/InMobi/tags/v4.5.1/IMNativeDelegate.h
+END

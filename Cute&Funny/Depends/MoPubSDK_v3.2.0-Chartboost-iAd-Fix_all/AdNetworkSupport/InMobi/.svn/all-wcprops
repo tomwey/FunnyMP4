@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi
+END
+InMobiNativeAdAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiNativeAdAdapter.h
+END
+InMobiInterstitialCustomEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiInterstitialCustomEvent.m
+END
+InMobiNativeAdAdapter.m
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiNativeAdAdapter.m
+END
+InMobiBannerCustomEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiBannerCustomEvent.h
+END
+InMobiNativeCustomEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiNativeCustomEvent.h
+END
+InMobiBannerCustomEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiBannerCustomEvent.m
+END
+InMobiInterstitialCustomEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiInterstitialCustomEvent.h
+END
+InMobiNativeCustomEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/common/!svn/ver/3171/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all/AdNetworkSupport/InMobi/InMobiNativeCustomEvent.m
+END

@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 849
+AnalyticsTool                          http://svn.stm.com/svn/common/components/AnalyticsTool/tags/v1.1.0
+FlurrySDK_v6.2.0                       http://svn.stm.com/svn/common/frameworks/FlurrySDK/tags/v6.2.0
+Chartboost_v5.0.3                      http://svn.stm.com/svn/common/frameworks/Chartboost/tag/v5.0.3
+MoPubSDK_v3.2.0-Chartboost-iAd-Fix_all http://svn.stm.com/svn/common/frameworks/MoPubSDK/tags/v3.2.0-Chartboost-iAd-Fix_all
+AdmobSDK_v6.12.0                       http://svn.stm.com/svn/common/frameworks/AdmobSDK/tags/v6.12.0
+InMobi_v4.5.1                          http://svn.stm.com/svn/common/frameworks/InMobi/tags/v4.5.1
+NewsBlast                              http://svn.stm.com/svn/common/components/NewsBlast/tags/2.3.0_analy
+AboutPage                              http://svn.stm.com/svn/common/components/AboutPage/tags/2.2.1_analy
+
+END

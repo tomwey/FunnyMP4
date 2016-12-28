@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking
+END
+UIAlertView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIAlertView+AFNetworking.h
+END
+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFNetworking.h
+END
+AFSecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFSecurityPolicy.h
+END
+UIWebView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIWebView+AFNetworking.h
+END
+UIButton+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIButton+AFNetworking.h
+END
+UIImageView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIImageView+AFNetworking.h
+END
+AFNetworkActivityIndicatorManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFNetworkActivityIndicatorManager.h
+END
+AFURLSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFURLSessionManager.h
+END
+AFURLConnectionOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFURLConnectionOperation.h
+END
+AFHTTPRequestOperationManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFHTTPRequestOperationManager.h
+END
+UIActivityIndicatorView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIActivityIndicatorView+AFNetworking.h
+END
+AFNetworkReachabilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFNetworkReachabilityManager.h
+END
+libAFNetworking.a
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/libAFNetworking.a
+END
+UIKit+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIKit+AFNetworking.h
+END
+AFURLRequestSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFURLRequestSerialization.h
+END
+AFHTTPRequestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFHTTPRequestOperation.h
+END
+AFHTTPSessionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFHTTPSessionManager.h
+END
+AFURLResponseSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/AFURLResponseSerialization.h
+END
+UIProgressView+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIProgressView+AFNetworking.h
+END
+UIRefreshControl+AFNetworking.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/WallHDiPhone2/!svn/ver/1041/trunk/FunnyGif/Cute&Funny/CommonSDK/Network/AFNetworking/UIRefreshControl+AFNetworking.h
+END
